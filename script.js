@@ -1,4 +1,4 @@
-var appName = "AI Gen Vision";
+var appName = "Aisiora: AI Art Generator";
 var storeUrl =
     "https://codecanyon.net/item/AI Gen Vision-make-money-flutter-app/44937626";
 var date = "2023-04-11";
