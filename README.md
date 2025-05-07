@@ -2,8 +2,8 @@
 
 ## Policy
 
-https://ditustudio.github.io/aigenvision/policy.html
+https://ditustudio.github.io/aisiora/policy.html
 
 ## Term
 
-https://ditustudio.github.io/aigenvision/term.html
+https://ditustudio.github.io/aisiora/term.html
